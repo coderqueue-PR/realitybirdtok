@@ -605,7 +605,7 @@ header label{
 .contact form .inputBox input, .contact form .inputBox textarea{
     width:45vw;
     background:#fff;
-    color:#fff;
+    color:black;
     margin:1.5rem 0;
     padding:1rem;
     font-size: 1.7rem;
