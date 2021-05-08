@@ -1029,7 +1029,7 @@ header label{
 
     .curved-div svg{
         height: 22vw;
-        margin-bottom: -22rem;
+        margin-bottom: -20rem;
     }
     .content_quote img {
         width: 53vw;
@@ -1102,6 +1102,10 @@ header label{
         margin-left: 9rem;
         margin-top: 3rem;
     }
+    .footer .box-container .box .info img {
+        height: 9vw;
+        margin-left: 0rem;
+    }
 
 }
 
@@ -1109,7 +1113,7 @@ header label{
 
     .curved-div svg{
         height: 22vw;
-        margin-bottom: -20rem;
+        margin-bottom:-19rem;
     }
     .features .box-container .box2{
         margin-left: 6rem;
